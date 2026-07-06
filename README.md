@@ -7,6 +7,8 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Matdp05&color=0A84FF&style=for-the-badge&label=VUES+DU+PROFIL" alt="Vues du profil"/>
+<img src="https://img.shields.io/github/followers/Matdp05?style=for-the-badge&color=0A84FF&labelColor=15151E&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Matdp05?style=for-the-badge&color=0A84FF&labelColor=15151E&label=STARS" alt="Stars"/>
 
 <br/>
 <br/>
@@ -31,28 +33,29 @@ Créateur de **IOS26 — Liquid Glass**, un thème Spicetify pour Spotify, dispo
 
 <br/>
 
-## 📈 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Matdp05&show_icons=true&hide_title=true&bg_color=0D0D14&text_color=C7C7D1&icon_color=0A84FF&title_color=0A84FF&border_color=2A2A36&border_radius=16&locale=fr&rank_icon=github" height="165" alt="Stats GitHub"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matdp05&layout=compact&bg_color=0D0D14&title_color=0A84FF&text_color=C7C7D1&border_color=2A2A36&border_radius=16&locale=fr" height="165" alt="Langages les plus utilisés"/>
-
-<br/>
-<br/>
+## 📈 Activité
 
 <img src="https://streak-stats.demolab.com?user=Matdp05&locale=fr&background=0D0D14&border=2A2A36&ring=0A84FF&fire=0A84FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0A84FF&sideLabels=C7C7D1&dates=8E8E93&border_radius=16" alt="Streak de contributions"/>
 
 <br/>
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Matdp05&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="Trophées GitHub"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matdp05&bg_color=0D0D14&color=C7C7D1&line=0A84FF&point=FFFFFF&area=true&area_color=0A84FF&border_color=2A2A36&radius=16&locale=fr&title_color=0A84FF" width="94%" alt="Graphique d'activité"/>
 
 <br/>
 <br/>
 
-## 🎧 Projet phare
+## 🎧 Projet phare — IOS26 · Liquid Glass
+
+Thème Spicetify inspiré d'iOS 26 : panneaux de verre flottants, îlot de lecture,<br/>
+fond dynamique tiré de la pochette et panneau de configuration intégré.
 
 <a href="https://github.com/Matdp05/IOS26.EDAWARD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matdp05&repo=IOS26.EDAWARD&bg_color=0D0D14&title_color=0A84FF&text_color=C7C7D1&icon_color=0A84FF&border_color=2A2A36&border_radius=16&description_lines_count=2" alt="IOS26.EDAWARD"/>
+  <img src="https://img.shields.io/badge/Voir_le_d%C3%A9p%C3%B4t-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="Voir le dépôt"/>
+</a>
+&nbsp;
+<a href="https://github.com/spicetify/marketplace">
+  <img src="https://img.shields.io/badge/Spicetify_Marketplace-15151E?style=for-the-badge&logo=spotify&logoColor=0A84FF" alt="Spicetify Marketplace"/>
 </a>
 
 <br/>
@@ -62,8 +65,7 @@ Créateur de **IOS26 — Liquid Glass**, un thème Spicetify pour Spotify, dispo
   <img src="https://raw.githubusercontent.com/Matdp05/IOS26.EDAWARD/master/docs/assets/screenshot-dark.png" width="82%" alt="Aperçu du thème IOS26 — Liquid Glass"/>
 </a>
 
-*Panneaux de verre flottants, îlot de lecture, fond dynamique — disponible sur le Spicetify Marketplace.*
-
+<br/>
 <br/>
 
 ## 🐍 Contributions
